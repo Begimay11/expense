@@ -1,0 +1,7 @@
+.expense-date{
+    width: 80px;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid white;
+}
